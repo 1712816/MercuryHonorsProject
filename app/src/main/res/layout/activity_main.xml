@@ -29,7 +29,7 @@
             app:cardElevation="6dp"
             app:cardCornerRadius="12dp"
             android:layout_margin="5dp"
-            android:onClick="lol"
+            android:onClick="sendToFlood"
             >
             <androidx.appcompat.widget.LinearLayoutCompat
                 android:layout_width="match_parent"

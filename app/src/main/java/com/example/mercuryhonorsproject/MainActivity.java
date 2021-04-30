@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
                 });
     }
 
-    public void lol(View view) {
+    public void sendToFlood(View view) {
 
     Intent intent = new Intent(this, FloodActivity.class);
     startActivity(intent);
