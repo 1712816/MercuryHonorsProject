@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419200871055",
+    "project_id": "cmb-honsproject",
+    "storage_bucket": "cmb-honsproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419200871055:android:2eb3b7d359ba178ae79efa",
+        "android_client_info": {
+          "package_name": "com.example.mercuryhonorsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419200871055-m1cq6vp783ijpgbg6dpotgi5lo24n2n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbQu0v2U2QQR4-etMx4qU2Jg7uC0q2G9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419200871055-m1cq6vp783ijpgbg6dpotgi5lo24n2n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
