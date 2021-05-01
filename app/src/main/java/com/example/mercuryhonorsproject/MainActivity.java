@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void unvailableToast(View view) {
+    public void unavailableToast(View view) {
         Toast.makeText(MainActivity.this, "UNAVAILABLE STILL IN BETA", Toast.LENGTH_SHORT).show();
     }
 

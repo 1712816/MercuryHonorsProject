@@ -63,7 +63,7 @@
             app:cardElevation="6dp"
             app:cardCornerRadius="12dp"
             android:layout_margin="5dp"
-            android:onClick="unvailableToast"
+            android:onClick="unavailableToast"
             >
             <androidx.appcompat.widget.LinearLayoutCompat
                 android:layout_width="match_parent"
@@ -129,7 +129,7 @@
             app:cardElevation="6dp"
             app:cardCornerRadius="12dp"
             android:layout_margin="5dp"
-            android:onClick="unvailableToast"
+            android:onClick="unavailableToast"
             >
             <androidx.appcompat.widget.LinearLayoutCompat
                 android:layout_width="match_parent"
